@@ -1,3 +1,8 @@
 .d-flex form{
   flex-grow: 0.5
 }
+
+body {
+  height: 100%;
+  background: linear-gradient(0deg, #FFFFFF 80%, #212527 20%);
+}
